@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giova\\Documents\\Estudos\\ASP.NET\\Alura.ListaLeitura.Projeto.Inicial\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj": {}
+    "C:\\Users\\giovanni.souza\\Documents\\lista-leitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giova\\Documents\\Estudos\\ASP.NET\\Alura.ListaLeitura.Projeto.Inicial\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj": {
+    "C:\\Users\\giovanni.souza\\Documents\\lista-leitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giova\\Documents\\Estudos\\ASP.NET\\Alura.ListaLeitura.Projeto.Inicial\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
+        "projectUniqueName": "C:\\Users\\giovanni.souza\\Documents\\lista-leitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
         "projectName": "Alura.ListaLeitura.App",
-        "projectPath": "C:\\Users\\giova\\Documents\\Estudos\\ASP.NET\\Alura.ListaLeitura.Projeto.Inicial\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
-        "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giova\\Documents\\Estudos\\ASP.NET\\Alura.ListaLeitura.Projeto.Inicial\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\obj\\",
+        "projectPath": "C:\\Users\\giovanni.souza\\Documents\\lista-leitura\\Alura.ListaLeitura.App\\Alura.ListaLeitura.App.csproj",
+        "packagesPath": "C:\\Users\\giovanni.souza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\giovanni.souza\\Documents\\lista-leitura\\Alura.ListaLeitura.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\giova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\giovanni.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
